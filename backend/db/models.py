@@ -1,0 +1,4 @@
+DOCUMENT_COLLECTION = "documents"
+PIPELINE_cOLLECTION = "pipelines"
+EVALUATION_COLLECTION = "evaluations"
+EXPERIMENT_COLLECTION = "experiments"
